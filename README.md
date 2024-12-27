@@ -14,19 +14,19 @@ The dataset used for this project includes a mix of quantitative, categorical, a
 
   2.1 Quantitative features
   
-    > Histograms and density plots
+  > Histograms and density plots
     
-    > Box plot
+  > Box plot
     
-    > Violin plot
+  > Violin plot
     
-    > describe()
+  > describe()
 
   2.2 Categorical and binary features
 
-    > Frequency table
+  > Frequency table
 
-    > Bar plot
+  > Bar plot
 
 3. Multivariate visualization
 
@@ -42,7 +42,7 @@ The dataset used for this project includes a mix of quantitative, categorical, a
 
 3.3 Categorical vs. Categorical
 
-    > Contingency table
+  > Contingency table
 
 4. Whole dataset visualizations
 
